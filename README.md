@@ -2,8 +2,6 @@
 
 Ein schlichter, clientseitiger Passwort-Generator mit Echtzeit-Entropie-Visualisierung — gebaut mit Vue 3 und Tailwind CSS.
 
-![Passwort Generator Screenshot](./screenshot.png)
-
 ---
 
 ## Was es macht
